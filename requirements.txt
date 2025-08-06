@@ -4,7 +4,6 @@ matplotlib
 seaborn
 requests
 bs4
-ydata_profiling
 scikit-learn
 mlxtend
 plotly
